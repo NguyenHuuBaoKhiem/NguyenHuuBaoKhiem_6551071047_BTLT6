@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build output
+bin/
+obj/
+**/bin/
+**/obj/
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build configurations
+Debug/
+Release/
+x64/
+x86/
+
+# Generated .NET files
+*.dll
+*.pdb
+*.cache
+*.log
+
+# NuGet generated
+packages/
+*.nupkg
+
+# OS
+.DS_Store
+Thumbs.db
